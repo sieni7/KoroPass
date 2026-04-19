@@ -1,4 +1,4 @@
-# 🔐 Kôrô-Pass
+# 🔐 DANGÔRÔ-PASS
 
 <p align="center">
   <strong>"Le vieux père veille sur tes accès."</strong><br>
@@ -17,7 +17,7 @@
 
 ## 📸 Aperçu
 
-![Kôrô-Pass UI](./screenshot.png)
+![DANGÔRÔ-PASS UI](./screenshot.png)
 
 ---
 
